@@ -1,9 +1,7 @@
 
 slurm
-#pgfm/reason files
-#pgfm/reason/scripts_vector
 
-pgfm/checkpoints/*
+mgn/checkpoints/*
 #ns-vqa files
 ns-vqa/data/*
 !ns-vqa/scene_parse
